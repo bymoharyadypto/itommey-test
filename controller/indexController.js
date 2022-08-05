@@ -103,6 +103,8 @@ class IndexController {
             console.log(error);
         }
     }
+
+    
 }
 
 module.exports = IndexController
